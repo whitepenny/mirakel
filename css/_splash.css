@@ -1,0 +1,81 @@
+body {
+    background: $backgroundColor;
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+.splash-container {
+    
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    color: #000;
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1000px;
+
+    @media (min-width: $phoneSize) {
+        display: flex;    
+    }
+    
+}
+
+.splash-body {
+    
+    
+
+    @media (min-width: $phoneSize) {
+        padding: 0 0 0 40px;
+    }
+    
+    h1 {
+        @mixin bravo;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        fwb
+
+        @media (min-width: $phoneSize) {
+            font-size: 56px;
+            line-height: 60px;
+        }
+
+
+    }
+
+    p {
+
+        font-size: 18px;
+        line-height: 26px;
+        @media (min-width: $phoneSize) {
+            font-size: 28px;
+            line-height: 34px;    
+        }
+        
+    }
+
+    a {
+        &:hover {
+            color: #000;
+            text-decoration: underline;
+            
+        }
+    }
+}
+
+.splash-image  {
+
+    width: 80px;
+    margin: 30px auto 60px auto;
+    flex: 0 0 200px;
+
+}
+
+.splash-logo {
+    width: 200px;
+    margin-bottom: 30px;
+}
+
