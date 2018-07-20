@@ -256,17 +256,20 @@ body {
         line-height: 4.4rem;
         text-transform: uppercase;
         letter-spacing: 1px;
+        margin-bottom: 1.0rem;
 
 
     }
-.splash-body h1 fwb
-
-        @media (min-width: 768px) {
+@media (min-width: 768px) {
+.splash-body h1 {
             font-size: 56px;
-            line-height: 60px;
+            line-height: 60px
+
+
+    }
         }
 .splash-body p {
-
+        margin: 0 0 3.0rem;
         font-size: 18px;
         line-height: 26px;
         
@@ -278,8 +281,11 @@ body {
         
     }    
         }
+.splash-body a {
+        text-decoration: underline;
+    }
 .splash-body a:hover {
-            color: #000;
+            color: #50BCC8;
             text-decoration: underline;
             
         }
@@ -295,4 +301,6 @@ body {
 .splash-logo {
     width: 200px;
     margin-bottom: 30px;
+    border-bottom: 2px solid #50BCC8;
+    padding-bottom: 30px;
 }

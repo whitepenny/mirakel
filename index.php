@@ -17,8 +17,9 @@
             <div class="splash-body">
                 <img class="splash-logo" src="/dist/img/logo.svg" alt="">
                 <h1>Stop scratching, itching, hiding  & hurting</h1>
-                <p>Mirakel will be launching online in 2019 <br /><a href="#">For a free sample click here</a></p>
-                <p></p>
+                <p>Mirakel will be launching online in 2019</p>
+                <p>For a free sample <a href="mailto:rwells@sanvio.com">click here</a></p>
+                
             </div>
 
            

@@ -36,7 +36,8 @@ body {
         @mixin bravo;
         text-transform: uppercase;
         letter-spacing: 1px;
-        fwb
+        margin-bottom: 1.0rem;
+        
 
         @media (min-width: $phoneSize) {
             font-size: 56px;
@@ -47,7 +48,7 @@ body {
     }
 
     p {
-
+        margin: 0 0 3.0rem;
         font-size: 18px;
         line-height: 26px;
         @media (min-width: $phoneSize) {
@@ -58,8 +59,9 @@ body {
     }
 
     a {
+        text-decoration: underline;
         &:hover {
-            color: #000;
+            color: #50BCC8;
             text-decoration: underline;
             
         }
@@ -77,5 +79,7 @@ body {
 .splash-logo {
     width: 200px;
     margin-bottom: 30px;
+    border-bottom: 2px solid #50BCC8;
+    padding-bottom: 30px;
 }
 
