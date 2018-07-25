@@ -19,7 +19,7 @@
                 <h1>Stop Scratching, Itching, Hiding & Hurting</h1>
                 <p>Mirakel will be available over the counter (OTC) in 2019. Sign up now for product launch, special event, and special pricing information!</p>
 
-                <p>Available NOW by prescription only! Just send your request for your prescription to try a sample of Mirakel today! First 100 prescriptions will be filled and shipped for FREE! <a target="_blank" href="https://sanvio.wufoo.com/forms/rfcj9eh17uzlzk/">CLICK HERE TO REQUEST</a></p>
+                <p>Available NOW by prescription only! To request a prescription for your doctor to sign, click the link below and try a sample of Mirakel today! First 100 prescriptions will be filled and shipped for FREE! <a target="_blank" href="https://sanvio.wufoo.com/forms/rfcj9eh17uzlzk/">CLICK HERE TO REQUEST</a></p>
 
                 
                 
