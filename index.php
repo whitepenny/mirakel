@@ -26,7 +26,7 @@
             <div class="splash-body">
                 <img class="splash-logo" src="/dist/img/logo.svg" alt="">
                 <h1>Stop Itching, Scratching, Hiding & Hurting</h1>
-                <p>Mirakel will be available over the counter (OTC) in 2019. Sign up now for product launch, special event, and special pricing information! For more information, please <a href="mailto:rwells@sanvio.com">contact us</a></p>
+                <p>Mirakel will be available over the counter (OTC) in 2019. Sign up now for product launch, special event, and special pricing information! For more information, please <a href="mailto:rwells@sanvio.com">contact us</a>.</p>
 
                 
                 
