@@ -112,7 +112,7 @@ ol {
     font-size: 1.3rem;
     line-height: 1.7rem;
     font-family: 'Open Sans', sans-serif;
-    background: #C7EEF1;
+    background: rgba(153,214,234,1);
     color: #fff;
     font-weight: 600;
     display: inline-block;
@@ -177,7 +177,7 @@ a {
 
 }
 a:hover {
-    color: #C7EEF1;
+    color: rgba(153,214,234,1);
   }
 .decorated {
     padding-bottom: 4px;
@@ -203,17 +203,17 @@ a:hover {
           justify-content: flex-start;
 }
 .continue:hover {
-    color: #C7EEF1;
+    color: rgba(153,214,234,1);
   }
 .continue:after {
     font-family: 'FontAwesome';
     display: inline-block;
     content: '\f0da';
     margin-left: .75rem;
-    color: #C7EEF1;
+    color: rgba(153,214,234,1);
   }
 body {
-    background: #C7EEF1;
+    background: rgba(153,214,234,1);
     font-family: 'PT Sans', sans-serif;
 
 }

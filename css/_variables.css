@@ -1,9 +1,9 @@
 $headingFont: 'Open Sans', sans-serif;
 $bodyFont: 'Open Sans', sans-serif;
 $alternateFont: 'Open Sans', sans-serif;
-$mainColor: #C7EEF1;
+$mainColor: rgba(153,214,234,1);
 $secondaryColor: #C5000D;
-$backgroundColor: #C7EEF1;
+$backgroundColor: rgba(153,214,234,1);
 $borderColor: #E6E6E6;
 
 $phoneSize: 768px;
